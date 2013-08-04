@@ -1,0 +1,12 @@
+name: MyPet
+main: me.FluffyNarwhals.MyPet.Plugin
+version: 1.0
+commands:
+  mypet:
+    description: Base command for MyPet
+    permission: MyPet.mypet
+    permission-message: No no no!
+    aliases: [mypets, pets, pet, mp]
+permissions:
+  MyPet.mypet:
+    default: true
