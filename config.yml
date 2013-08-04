@@ -1,3 +1,5 @@
+# Made by FluffyNarwhals
+
 money:
   rename-price: 20.0
   # If this is true, the pet-price below will be the same price for all pets. If it is false, pet-price won't be used

@@ -18,11 +18,11 @@ public class Plugin extends JavaPlugin{
 		
 		this.getCommand("mypet").setExecutor(new MyPetCommand());
 		
-		this.config();
+		this.registerConfig();
 		
 	}
 	
-	public void config(){
+	public void registerConfig(){
 		this.saveDefaultConfig();
 	}
 	

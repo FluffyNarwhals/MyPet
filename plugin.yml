@@ -1,6 +1,6 @@
 name: MyPet
 main: me.FluffyNarwhals.MyPet.Plugin
-version: 1.0
+version: 1.2
 commands:
   mypet:
     description: Base command for MyPet

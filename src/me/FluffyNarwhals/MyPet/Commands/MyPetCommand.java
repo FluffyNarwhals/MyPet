@@ -23,7 +23,7 @@ public class MyPetCommand implements CommandExecutor{
 				p.sendMessage(pl.getPrefix() + ChatColor.DARK_GREEN + "Name: " + ChatColor.DARK_AQUA + "MyPet");
 				p.sendMessage(pl.getPrefix() + ChatColor.DARK_GREEN + "Version: " + ChatColor.DARK_AQUA + Plugin.p.getVersion());
 				p.sendMessage(pl.getPrefix() + ChatColor.DARK_GREEN + "Creator: " + ChatColor.DARK_AQUA + "FluffyNarwhals");
-				p.sendMessage(pl.getPrefix() + "Type /mypet help");
+				p.sendMessage(pl.getPrefix() + "Type /mypet help for a list of commandss");
 				
 			}
 			
